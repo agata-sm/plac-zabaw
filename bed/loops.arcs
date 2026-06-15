@@ -1,2 +1,2 @@
 track type=interact name="interact Example One" description="Chromatin interactions" interactDirectional=false maxHeightPixels=200:100:50 visibility=full
-5	13400000	13401000	loop1	100	3	.	#109630	5	13400000	13401000	.	.	5	13530000	13531000	.	.
+5	13400000	13401000	loop1	100	3	.	#109630	chr5	13400000	13401000	.	.	chr5	13530000	13531000	.	.
