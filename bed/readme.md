@@ -14,3 +14,8 @@ https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/interv
 
 4. Submit, and enjoy :-).
 
+Go to Browser position
+`chr5:13,389,472-13,479,561`
+
+Double click on a track to show all features
+
