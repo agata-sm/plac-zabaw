@@ -1,4 +1,4 @@
-track type=interact name=loops-example description="Chromatin interactions" useScore=off maxHeightPixels=200:100:50 visibility=full itemRgb="On"
+track type=interact name=loops-example description="Chromatin interactions" useScore=on maxHeightPixels=200:100:50 visibility=full itemRgb="On"
 browser dense ensGene 
-chr5	13400000	13401000	loop1	1	3	.	16,150,48	chr5	13400000	13401000	.	.	chr5	13530000	13531000	.	.
-chr17		32150000	32291000	loop2	2	3 . 163,120,176	chr17		32150000	32151000	.	.	chr17		32290000	32291000	.	.
+chr5	13400000	13401000	loop1	0	50	.	16,150,48	chr5	13400000	13401000	.	.	chr5	13530000	13531000	.	.
+chr17		32150000	32291000	loop2	0	100 . 163,120,176	chr17		32150000	32151000	.	.	chr17		32290000	32291000	.	.
