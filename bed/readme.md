@@ -48,6 +48,12 @@ https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/Loops-
 
 Visibility of the tracks can be altered by clicking on the track. This is especially useful for TAD tracks.
 
+To include differential boundaries, add:
+
+```
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/LEC-difbnds-difTADs-PanaraArnoldGloger2026-tst.bed
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/BEC-difbnds-difTADs-PanaraArnoldGloger2026-tst.bed
+```
 
 These tracks contain one locus.
 
