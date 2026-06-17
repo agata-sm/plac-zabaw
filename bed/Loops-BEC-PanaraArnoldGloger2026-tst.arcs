@@ -1,0 +1,3 @@
+track type=interact name="loops-BEC" description="Chromatin loops - BEC" interactDirectional=false maxHeightPixels=200:100:50 visibility=full itemRgb="On" db=danRer11
+browser dense ensGene refGene
+browser hide evaSnp8 xenoRefGene

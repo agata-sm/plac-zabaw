@@ -1,0 +1,5 @@
+track type=interact name="loops-LEC" description="Chromatin loops - LEC" interactDirectional=false maxHeightPixels=200:100:50 visibility=full itemRgb="On" db=danRer11
+browser dense ensGene refGene
+browser hide evaSnp8 xenoRefGene
+chr2	28000000	28010000	.	0	3	.	16,150,48	chr2	28000000	28010000	.	.	chr2	28890000	28900000	.	.
+chr2	28000000	28025000	.	0	3	.	16,150,48	chr2	28000000	28025000	.	.	chr2	28875000	28900000	.	.
