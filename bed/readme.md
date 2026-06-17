@@ -30,11 +30,24 @@ Double click on a track to show all features
 
 1. Go to https://genome.ucsc.edu/cgi-bin/hgCustom
 
-2. Paste the following as data source:
+
+2. Make sure the genome assembly is `Current Genome: May 2017 (GRCz11/danRer11)`
+
+
+
+3. Paste the following as data source:
 
 
 ```
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/LEC-TADs-PanaraArnoldGloger2026-tst.bed
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/BEC-TADs-PanaraArnoldGloger2026-tst.bed
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/OCR-PanaraArnoldGloger2026-tst.bed
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/Loops-LEC-PanaraArnoldGloger2026-tst.arcs
+https://raw.githubusercontent.com/agata-sm/plac-zabaw/refs/heads/main/bed/Loops-common-PanaraArnoldGloger2026-tst.arcs
 ```
 
-The genome assembly should be recognised automatically. These tracks contain one locus.
+Visibility of the tracks can be altered by clicking on the track. This is especially useful for TAD tracks.
+
+
+These tracks contain one locus.
 
