@@ -1,4 +1,4 @@
-track name=OCR description="OCR PanaraArnoldGloger2026: LEC - green, BEC - purple" itemRgb="On" visibility=squish
+track name=OCR description="OCR PanaraArnoldGloger2026: LEC - green, BEC - purple" itemRgb="On" visibility=squish db=danRer11
 chr2	28057919	28058267	macs2_broad_atac_peak_40620	-0.492273156553379	.	28057919	28058267	186,186,186
 chr2	28074947	28075121	macs2_broad_atac_peak_40621	1.00404509130966	.	28074947	28075121	16,150,48
 chr2	28086133	28086617	macs2_broad_atac_peak_40622	-0.331012042526868	.	28086133	28086617	186,186,186
